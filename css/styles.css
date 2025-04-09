@@ -3,6 +3,10 @@ body {
     margin: 0;         /* Elimina márgenes por defecto */
   }
   
+  .navbar-bmw {
+    background-color: #000000; /* Negro BMW */
+    border-bottom: 2px solid #0066B1; /* Borde inferior azul */
+  }
   #carouselExampleFade {
     width: 100%;       /* Ocupa el 100% del ancho disponible */
     margin: 0 auto;    /* Centrado opcional */
